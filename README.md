@@ -15,8 +15,9 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/KeraSakti666"><img src="https://img.shields.io/github/followers/KeraSakti666?style=social" alt="GitHub followers"></a>
-  <a href="https://www.npmjs.com/~kerasakti666"><img src="https://img.shields.io/badge/Node.js-NPM_Creator-CB3837?style=flat&logo=npm&logoColor=white" alt="NPM Creator"></a>
+  <a href="https://hosni-portofolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🌍_My_Portfolio-Visit_Now-2563EB?style=for-the-badge" alt="Portfolio"></a>
+  <a href="https://www.npmjs.com/~kerasakti666" target="_blank"><img src="https://img.shields.io/badge/📦_NPM_Libraries-View_Packages-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM Packages"></a>
+  <a href="https://github.com/KeraSakti666"><img src="https://img.shields.io/github/followers/KeraSakti666?style=for-the-badge&color=2ea44f" alt="GitHub followers"></a>
 </div>
 
 <br/>
