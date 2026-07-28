@@ -50,13 +50,6 @@ Sebagai bentuk kontribusi aktif pada ekosistem JavaScript Global, saya membangun
   <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,nodejs,express,mongodb,cpp,cs,java,npm,git,github" />
 </div>
 
----
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MeHosni&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeHosni&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
 
 
