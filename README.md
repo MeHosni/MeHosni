@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hosni%20Mubarok&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Architecting%20Next-Gen%20Web%20%26%20Game%20Servers&descAlignY=55&descAlign=50" />
-</div>
 
 <h1 align="center">Hi there, I'm Hosni Mubarok 👋</h1>
 
@@ -62,7 +59,4 @@ Sebagai bentuk kontribusi aktif pada ekosistem JavaScript Global, saya membangun
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeHosni&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
-<br/>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</div>
+
