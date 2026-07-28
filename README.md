@@ -52,16 +52,6 @@ Sebagai bentuk kontribusi aktif pada ekosistem JavaScript Global, saya membangun
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=MeHosni&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="Trophies" />
-  </a>
-</div>
-
----
-
 ## 🐍 Contribution Activity (Live)
 
 <div align="center">
