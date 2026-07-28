@@ -17,7 +17,7 @@
 <div align="center">
   <a href="https://hosni-portofolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🌍_My_Portfolio-Visit_Now-2563EB?style=for-the-badge" alt="Portfolio"></a>
   <a href="https://www.npmjs.com/~kerasakti666" target="_blank"><img src="https://img.shields.io/badge/📦_NPM_Libraries-View_Packages-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM Packages"></a>
-  <a href="https://github.com/KeraSakti666"><img src="https://img.shields.io/github/followers/KeraSakti666?style=for-the-badge&color=2ea44f" alt="GitHub followers"></a>
+  <a href="https://github.com/MeHosni"><img src="https://img.shields.io/github/followers/MeHosni?style=for-the-badge&color=2ea44f" alt="GitHub followers"></a>
 </div>
 
 <br/>
@@ -35,15 +35,15 @@ Sebagai bentuk kontribusi aktif pada ekosistem JavaScript Global, saya membangun
 
 ## 🎮 High-Performance Game Architecture
 
-- ⚔️ **[moba-vision-guard](https://github.com/KeraSakti666/moba-vision-guard):** Mesin *Server-Side Vision Culling* level AAA yang dirancang khusus untuk membasmi "Map Hack" pada game MOBA berskala masif. Dibangun dalam **C++, C#, dan Java** menggunakan 100% *Double-Linked Spatial Hash Arrays* (0 Bytes GC) dan 3D Voxel Raycasting (*Amanatides-Woo*).
+- ⚔️ **[moba-vision-guard](https://github.com/MeHosni/moba-vision-guard):** Mesin *Server-Side Vision Culling* level AAA yang dirancang khusus untuk membasmi "Map Hack" pada game MOBA berskala masif. Dibangun dalam **C++, C#, dan Java** menggunakan 100% *Double-Linked Spatial Hash Arrays* (0 Bytes GC) dan 3D Voxel Raycasting (*Amanatides-Woo*).
 
 ---
 
 ## 🚀 Highlighted Open-Source Projects
 
-- ✨ **[Auto-Vibe Engine](https://github.com/KeraSakti666/auto-vibe-engine-web):** Library CSS & Vanilla JS super ringan untuk menyulap HTML biasa menjadi *website* premium bergaya *glassmorphism* dengan efek *hover magnetic*.
-- 🛡️ **[TokenShield (Rug Pull Detector)](https://github.com/KeraSakti666/rug-pull-detector):** Alat *open-source* untuk para investor kripto dalam memindai (*scan*) *Smart Contract* dari potensi penipuan (*scam*).
-- 🤖 **[VisionBot (RPG Auto-Farmer)](https://github.com/KeraSakti666/rpg-auto-farmer):** Mesin makro universal khusus PvE menggunakan *Computer Vision* (OpenCV) untuk mengotomatisasi *grinding* RPG dengan aman.
+- ✨ **[Auto-Vibe Engine](https://github.com/MeHosni/auto-vibe-engine-web):** Library CSS & Vanilla JS super ringan untuk menyulap HTML biasa menjadi *website* premium bergaya *glassmorphism* dengan efek *hover magnetic*.
+- 🛡️ **[TokenShield (Rug Pull Detector)](https://github.com/MeHosni/rug-pull-detector):** Alat *open-source* untuk para investor kripto dalam memindai (*scan*) *Smart Contract* dari potensi penipuan (*scam*).
+- 🤖 **[VisionBot (RPG Auto-Farmer)](https://github.com/MeHosni/rpg-auto-farmer):** Mesin makro universal khusus PvE menggunakan *Computer Vision* (OpenCV) untuk mengotomatisasi *grinding* RPG dengan aman.
 
 ---
 
@@ -58,8 +58,8 @@ Sebagai bentuk kontribusi aktif pada ekosistem JavaScript Global, saya membangun
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KeraSakti666&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeraSakti666&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MeHosni&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeHosni&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
 <br/>
