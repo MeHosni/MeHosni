@@ -1,53 +1,31 @@
+# Hi there, I'm Hosni Mubarok 👋
+
 <div align="center">
-
-# 👑 KeraSakti666
-### High-Performance Game Server Architect | Data-Oriented Design (ECS) Expert
-
-*"Satu milidetik di server adalah penentu kemenangan seratus ribu pemain di arena."*
-
-[![GitHub followers](https://img.shields.io/github/followers/KeraSakti666?style=social)](https://github.com/KeraSakti666)
-[![Top Langs](https://img.shields.io/github/languages/top/KeraSakti666/moba-vision-guard?color=blue&style=flat-square)](#)
-[![Zero GC](https://img.shields.io/badge/GC_Allocation-0_Bytes-brightgreen?style=flat-square)](#)
-
+  <a href="https://hosni-portofolio.vercel.app/" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=800&lines=Frontend+Developer+(UI%2FUX);High-Performance+Game+Server+Architect;Building+Modern+Web+Experiences;Data-Oriented+Design+(ECS)+Expert" alt="Typing SVG" />
+  </a>
 </div>
 
-<br/>
+Welcome to my digital playground! I am a passionate **Frontend Developer** specializing in UI/UX design. I believe in writing "vibe code"—creating web applications that are not just highly functional, but also visually stunning, interactive, and mobile-responsive.
 
-## 👨‍💻 Tentang Saya
-Saya adalah seorang **Arsitek Mesin Game** (*Game Engine Architect*) yang berfokus pada sisi *Backend* dan optimasi ekstrem di tingkat *Hardware*. Saya tidak percaya pada batasan perangkat lunak. Ketika server *game* konvensional hancur karena kebocoran memori (*Memory Leak*) dan latensi (*Lag*), saya merekayasa ulang arsitekturnya ke titik nadir: **Absolute Zero-Allocation** dan **CPU Cache Optimization (L1/L2)**.
-
-Area Keahlian Utama:
-- ⚡ **Data-Oriented Design (ECS)**: Memusnahkan Object-Oriented Programming (OOP) yang lambat demi dominasi struktur memori rata (*Contiguous Flat Arrays*).
-- 🛡️ **Anti-Hack / Server-Side Authority**: Membela integritas *game* kompetitif (MOBA/MMORPG) dari eksploitasi *cheater* (Map Hack, Radar Hack) melalui verifikasi absolut di server.
-- 🧮 **Spatial Hashing & Voxel Raycasting**: Menelusuri ruang tiga dimensi secara presisi matematis (Amanatides-Woo).
+Di samping itu, saya juga baru saja berevolusi menjadi seorang **Arsitek Mesin Game (Backend)** yang terobsesi dengan performa ekstrem di tingkat *Hardware* (Absolute Zero-Allocation & ECS Data-Oriented Design) untuk menciptakan dunia *game* yang adil.
 
 ---
 
-## 🚀 Mahakarya Utama (*Masterpiece*)
+### 🚀 Highlighted Open-Source Projects
 
-### ⚔️ [moba-vision-guard](https://github.com/KeraSakti666/moba-vision-guard)
-Sebuah arsitektur server tingkat AAA untuk mengatasi "Map Hack" di game berskala masif (sekelas *Mobile Legends* / *Honor of Kings*).
-- **V6 God Level Architecture**: Tidak ada penggunaan List atau HashMap, murni menggunakan *Double-Linked Spatial Hash Arrays*. 100% Bebas Sampah (*0 Bytes Garbage Collector*).
-- **3D Voxel Raycasting**: Kalkulus pencahayaan *Line of Sight* (LoS) dengan fitur tembusan *High Ground/Low Ground* (Z-Lerp).
-- Dibuat dalam 3 bahasa untuk kebutuhan industri nyata: **C++**, **C#**, dan **Java**.
-
-> **"Proyek ini membuktikan bahwa perlindungan server-side absolut dapat dicapai tanpa membuat server berasap."**
+- ⚔️ **[moba-vision-guard](https://github.com/KeraSakti666/moba-vision-guard):** Sebuah arsitektur server tingkat AAA untuk mengatasi "Map Hack" di game berskala masif. Dibangun dalam 3 bahasa (C++, C#, Java) menggunakan 100% *Double-Linked Spatial Hash Arrays* (0 Bytes GC) dan 3D Voxel Raycasting (Amanatides-Woo).
+- ✨ **[Auto-Vibe Engine](https://github.com/KeraSakti666/auto-vibe-engine-web):** A lightweight CSS & Vanilla JS library to instantly transform boring HTML into premium, glassmorphism-styled websites with magnetic hover effects.
+- 🛡️ **[TokenShield (Rug Pull Detector)](https://github.com/KeraSakti666/rug-pull-detector):** A clean-finance themed open-source tool for crypto investors to scan smart contracts for potential scams and rug pulls.
+- 🤖 **[VisionBot (RPG Auto-Farmer)](https://github.com/KeraSakti666/rpg-auto-farmer):** A PvE-exclusive universal macro engine using OpenCV and `pydirectinput` to automate RPG grinding safely.
 
 ---
 
-## 🛠️ Persenjataan Teknologi
+### 🛠️ Persenjataan Teknologi
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,java,git,github" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,cpp,cs,java,git,github" />
 </div>
-
-<br/>
-
-## 📊 Statistik Performa
-> Kode saya selalu berusaha untuk berjalan pada tingkat efisiensi tertinggi yang dimungkinkan oleh perangkat keras silikon.
-
-- **Bahasa Prioritas**: C++, C# (.NET SIMD), Java (JVM Memory Tuning)
-- **Kompleksitas Favorit**: O(1)
 
 <br/>
 <div align="center">
