@@ -50,6 +50,28 @@ Sebagai bentuk kontribusi aktif pada ekosistem JavaScript Global, saya membangun
   <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,nodejs,express,mongodb,cpp,cs,java,npm,git,github" />
 </div>
 
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=MeHosni&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="Trophies" />
+  </a>
+</div>
+
+---
+
+## 🐍 Contribution Activity (Live)
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MeHosni/MeHosni/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MeHosni/MeHosni/output/github-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MeHosni/MeHosni/output/github-snake.svg">
+  </picture>
+</div>
+
 
 
 
